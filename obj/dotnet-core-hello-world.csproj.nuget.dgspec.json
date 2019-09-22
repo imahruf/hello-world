@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/miqbal/Documents/dotnet-core-hello-world/dotnet-core-hello-world.csproj": {}
+  },
+  "projects": {
+    "/Users/miqbal/Documents/dotnet-core-hello-world/dotnet-core-hello-world.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/miqbal/Documents/dotnet-core-hello-world/dotnet-core-hello-world.csproj",
+        "projectName": "dotnet-core-hello-world",
+        "projectPath": "/Users/miqbal/Documents/dotnet-core-hello-world/dotnet-core-hello-world.csproj",
+        "packagesPath": "/Users/miqbal/.nuget/packages/",
+        "outputPath": "/Users/miqbal/Documents/dotnet-core-hello-world/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/miqbal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Server.IISIntegration": {
+              "target": "Package",
+              "version": "[2.2.*, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.2.*, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[2.2.*, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

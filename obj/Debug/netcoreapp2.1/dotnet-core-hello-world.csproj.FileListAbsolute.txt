@@ -1,0 +1,11 @@
+/Users/miqbal/Documents/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.deps.json
+/Users/miqbal/Documents/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.runtimeconfig.json
+/Users/miqbal/Documents/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.runtimeconfig.dev.json
+/Users/miqbal/Documents/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.dll
+/Users/miqbal/Documents/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.pdb
+/Users/miqbal/Documents/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.csprojAssemblyReference.cache
+/Users/miqbal/Documents/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.csproj.CoreCompileInputs.cache
+/Users/miqbal/Documents/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.AssemblyInfoInputs.cache
+/Users/miqbal/Documents/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.AssemblyInfo.cs
+/Users/miqbal/Documents/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.dll
+/Users/miqbal/Documents/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.pdb
